@@ -1,0 +1,44 @@
+ #content {
+   width: 514px;
+   margin-left: auto;
+   margin-right: auto;
+
+ }
+
+ #board {
+   background-color: #000000;
+   user-select: none;
+   cursor: pointer;
+ }
+
+td.cell {
+  background-color: #05aa00;
+  width: 60px;
+  height: 60px;
+  margin:2px;
+  text-align: center;
+}
+
+td.black{
+  background-color: #05aa00;
+  width: 60px;
+  height: 60px;
+  margin:2px;
+  font-size: 40px;
+  text-align: center;
+  color: black;
+}
+
+td.white{
+  background-color: #05aa00;
+  width: 60px;
+  height: 60px;
+  margin:2px;
+  font-size: 40px;
+  text-align: center;
+  color: white;
+}
+
+ #Name, #title{
+  text-align: center;
+}
